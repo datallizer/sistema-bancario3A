@@ -7,12 +7,12 @@ if ($esLocal) {
     $db_host = "localhost";
     $db_user = "root";
     $db_pass = "";
-    $db_name = "BD_NAME";
+    $db_name = "sistema-bancario3A";
 } else {
     $db_host = "datallizer.com";
     $db_user = "datallize_user";
     $db_pass = "IWY_]HGVKKBJJLEi";
-    $db_name = "datallizer";
+    $db_name = "sistema-bancario3A";
 }
 
 try {
